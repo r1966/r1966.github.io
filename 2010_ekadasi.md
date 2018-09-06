@@ -10,7 +10,7 @@ layout: page
 {% include menu.html %}
 
 
-{{ bar2 }}
+<div class="sticky">{{ bar2 }}</div><br/>
 
 
 {% for image in site.static_files %}
