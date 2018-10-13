@@ -8,8 +8,15 @@ permalink: /news/
 <h1>News</h1>
 
 <h2 style="color:orange;" id="demo"></h2>
+<br/>
+
+<h2 style="color:orange;">Chaturthi</h2>
+Preparations in full swing. For more pics <a href="/2018_anandamela.html">click here</a>
+<img style="margin-left:1px;" src="../images/puja2018/chaturthi.jpg" alt="image"/><br/><br/>
+
 
 <script>
+/******************
 // Set the date we're counting down to
 var countDownDate = new Date("Oct 15, 2018 18:00:00").getTime();
 
@@ -38,4 +45,5 @@ var x = setInterval(function() {
         document.getElementById("demo").innerHTML = "";
     }
 }, 1000);
+***************/
 </script>
