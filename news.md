@@ -9,6 +9,11 @@ permalink: /news/
 
 <h2 style="color:orange;" id="demo"></h2>
 <br/>
+<h2 style="color:orange;">Sasthi</h2>
+For the pics <a href="/2018_sasthi.html">click here</a>
+<br/>
+<h2 style="color:orange;">Panchami</h2>
+For more pics <a href="/2018_panchami.html">click here</a>
 
 <h2 style="color:orange;">Chaturthi</h2>
 Preparations in full swing. For more pics <a href="/2018_anandamela.html">click here</a>
