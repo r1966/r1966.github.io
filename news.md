@@ -6,6 +6,9 @@ permalink: /news/
 {% include menu.html %}
 
 <h1>News</h1>
+<h2 style="color:orange;">Panchami</h2>
+For more Panchami pics <a href="/2019_panchami.html">click here</a>
+<img style="margin-left:1px;" src="../images/puja2019/panchami.jpg" alt="image"/><br/><br/>
 
 
 <h2 style="color:orange;">Chaturthi</h2>
@@ -24,7 +27,7 @@ var x = setInterval(function() {
     // Get todays date and time
     var now = new Date().getTime();
     
-    // Find the distance between now and the count down date
+    // Find the distance between now and the count down dategit status
     var distance = countDownDate - now;
     
     // Time calculations for days, hours, minutes and seconds
