@@ -7,35 +7,10 @@ permalink: /news/
 
 <h1>News</h1>
 
-<h2 style="color:orange;">Dasami</h2>
-<img style="margin-left:1px;" src="../images/puja2018/dasami/IMG_7627.jpg" alt="image"/><br/><br/>
-For more dasami pics <a href="/2018_dasami.html">click here</a>
-<br/>
-<h2 style="color:orange;">Nabami</h2>
-<img style="margin-left:1px;" src="../images/puja2018/nabami/IMG_7625.jpg" alt="image"/><br/><br/>
-For more nabami pics <a href="/2018_nabami.html">click here</a>
-<br/>
-<h2 style="color:orange;">Astami</h2>
-<img style="margin-left:1px;" src="../images/puja2018/astami/IMG_7470.jpg" alt="image"/><br/><br/>
-For more astami pics <a href="/2018_astami.html">click here</a>
-<br/>
-<h2 style="color:orange;">Saptami</h2>
-<img style="margin-left:1px;" src="../images/puja2018/saptami/IMG_7427.jpg" alt="image"/><br/><br/>
-For more saptami pics <a href="/2018_saptami.html">click here</a>
-<br/>
-
-<br/>
-<h2 style="color:orange;">Sasthi</h2>
-<img style="margin-left:1px;" src="../images/puja2018/sasthi/IMG_7335.jpg" alt="image"/><br/><br/>
-For the pics <a href="/2018_sasthi.html">click here</a>
-<br/>
-<h2 style="color:orange;">Panchami</h2>
-<img style="margin-left:1px;" src="../images/puja2018/panchami/IMG_7272.jpg" alt="image"/><br/><br/>
-For more pics <a href="/2018_panchami.html">click here</a>
 
 <h2 style="color:orange;">Chaturthi</h2>
-Preparations in full swing. For more pics <a href="/2018_anandamela.html">click here</a>
-<img style="margin-left:1px;" src="../images/puja2018/chaturthi.jpg" alt="image"/><br/><br/>
+Preparations in full swing. For more pics <a href="/2019_anandamela.html">click here</a>
+<img style="margin-left:1px;" src="../images/puja2019/chaturthi.jpg" alt="image"/><br/><br/>
 
 
 <script>
