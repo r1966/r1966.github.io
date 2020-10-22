@@ -12,6 +12,8 @@ permalink: /news/
 
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/r-batujRAfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r-batujRAfg" frameborder="0"  allowfullscreen></iframe>
+
 
 <!--h2 style="color:orange;">Panchami</h2>
 For more Panchami pics <a href="/2019_panchami.html">click here</a>
