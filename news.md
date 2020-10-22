@@ -9,14 +9,20 @@ permalink: /news/
 
 <div id="demo"></div>
 <h1>News</h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r-batujRAfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <!--h2 style="color:orange;">Panchami</h2>
 For more Panchami pics <a href="/2019_panchami.html">click here</a>
 <img style="margin-left:1px;" src="../images/puja2019/panchami.jpg" alt="image"/><br/-->
+<img style="margin-left:1px;" src="../images/puja2020/nirghonto.jpg" alt="image"/><br/>
 
+<h3>Event: Saptami Pushpanjali</h3>
 <div class="fb-page" data-href="https://www.facebook.com/Meghamallar-Pujo-2020-105600611335211" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Meghamallar-Pujo-2020-105600611335211" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Meghamallar-Pujo-2020-105600611335211">Meghamallar Pujo 2020</a></blockquote></div>
 
-<h2 style="color:orange;">Puja Nirghonto</h2>
-<img style="margin-left:1px;" src="../images/puja2020/nirghonto.jpg" alt="image"/><br/>
+
+
 
 
 <script>
