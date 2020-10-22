@@ -10,7 +10,7 @@ permalink: /news/
 <div id="demo"></div>
 <h1>News</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r-batujRAfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--iframe width="560" height="315" src="https://www.youtube.com/embed/r-batujRAfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
 
 <!--h2 style="color:orange;">Panchami</h2>
