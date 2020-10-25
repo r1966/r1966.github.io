@@ -14,6 +14,7 @@ permalink: /news/
 <h3>Nabami Cultural</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdk0z5Wu6yU" frameborder="0" allowfullscreen></iframe>
 <br/><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CcIYjADXk-E" frameborder="0" allowfullscreen></iframe>
 <h3>Ashtami Cultural</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wSHeRlya92g" frameborder="0" allowfullscreen></iframe>
 <br/><br/>
