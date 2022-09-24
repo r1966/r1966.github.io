@@ -10,7 +10,7 @@ permalink: /news/
 <div style="border:1px solid black;background:#00008B; color:white;" id="demo"></div>
 <h1>News</h1>
 
-<img style="border:1px solid black;" src="/images/puja2021/nirghonto-2021.JPG"><img>
+<img style="border:1px solid black;" src="/images/puja2022/nirghonto-2022.jpg"><img>
 
 
 
@@ -20,7 +20,7 @@ permalink: /news/
 <script>
 /******************/
 // Set the date we're counting down to
-var countDownDate = new Date("Oct 11, 2021 18:00:00").getTime();
+var countDownDate = new Date("Sep 30, 2022 18:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
