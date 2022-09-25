@@ -10,6 +10,7 @@ layout: page
 {% include menu.html %}
 
 
+
 <div class="sticky">{{ bar2 }}</div><br/>
 
 
