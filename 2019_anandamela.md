@@ -16,4 +16,8 @@ layout: page
 	{% if image.path contains  bar2  %}
 <img style="margin-left:1px;" src="{{ site.baseurl }}{{ image.path }}" alt="image"/><br/><br/>
 	{% endif %}
-{% endfor %}	
+{% endfor %}
+
+<script>
+	document.getElementById("dropbtn{{ bar[0] }}").style.backgroundColor = "orange";
+</script>	

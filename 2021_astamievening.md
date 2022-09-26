@@ -19,3 +19,7 @@ layout: page
 <img style="margin-left:1px;" src="{{ site.baseurl }}{{ image.path }}" alt="image"/><br/><br/>
 	{% endif %}
 {% endfor %}
+
+<script>
+	document.getElementById("dropbtn{{ bar[0] }}").style.backgroundColor = "orange";
+</script>
