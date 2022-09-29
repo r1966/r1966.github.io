@@ -12,6 +12,7 @@ permalink: /news/
 
 <h2>Chaturthi Highlights : Naru Preparations</h2>
 <img style="border:1px solid black;" src="/images/puja2022/2022-preparations1.jpg"><img>
+photo credit: Rajashree
 <br/><br/>
 <h2>Puja Nirghonto</h2>
 <img style="border:1px solid black;" src="/images/puja2022/nirghonto-2022.jpg"><img>
