@@ -9,6 +9,9 @@ permalink: /news/
 
 <div style="border:1px solid black;background:#00008B; color:white;" id="demo"></div>
 <h1>News</h1>
+<h2>Panchami Highlights : Anandamela</h2>
+<img style="border:1px solid black;" src="/images/puja2022/2022-anandamela.jpg"><img>
+photo credit: Shanu
 
 <h2>Chaturthi Highlights : Naru Preparations</h2>
 <img style="border:1px solid black;" src="/images/puja2022/2022-preparations1.jpg"><img>
