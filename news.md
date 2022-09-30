@@ -8,7 +8,7 @@ permalink: /news/
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0" nonce="LlOs07kQ"></script>
 
 <div style="border:1px solid black;background:#00008B; color:white;" id="demo"></div>
-<h1>News</h1>
+<h1>News - Pujo 2022</h1>
 <h2>Panchami Highlights : Anandamela</h2>
 <img style="border:1px solid black;" src="/images/puja2022/2022-anandamela.jpg"><img>
 photo credit: Shanu
