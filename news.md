@@ -9,6 +9,12 @@ permalink: /news/
 
 <div style="color:white;" id="demo"></div>
 <h1>News - Pujo 2022</h1>
+
+<h2>Sasthi Highlights : Debi Baran</h2>
+<img style="border:1px solid black;" src="/images/puja2022/2022-sasthi.jpg"><img>
+
+
+
 <h2>Panchami Highlights : Anandamela</h2>
 <img style="border:1px solid black;" src="/images/puja2022/2022-anandamela.jpg"><img>
 photo credit: Shanu
