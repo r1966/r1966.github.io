@@ -8,7 +8,12 @@ permalink: /news/
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0" nonce="LlOs07kQ"></script>
 
 <div style="color:white;" id="demo"></div>
-<h1>News - Pujo 2022</h1>
+
+<br/><br/>
+<h2>Saptami Morning : Kolabou Snan</h2>
+<img style="border:1px solid black;" src="/images/puja2022/2022-kolabou1.jpg"><img>
+<img style="border:1px solid black;" src="/images/puja2022/2022-kolabou2.jpg"><img>
+
 
 <h2>Sasthi Highlights : Debi Baran</h2>
 <img style="border:1px solid black;" src="/images/puja2022/2022-sasthi.jpg"><img>
