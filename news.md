@@ -10,6 +10,13 @@ permalink: /news/
 <div style="color:white;" id="demo"></div>
 
 <br/><br/>
+<h2>Astami : Sandhi Puja</h2>
+<img style="border:1px solid black;" src="/images/puja2022/2022-sandhi-pujo.jpg"><img>
+photo credit: Ronnie
+
+<h2>Astami : Bhog</h2>
+<img style="border:1px solid black;" src="/images/puja2022/2022-pujo-upochar.jpg"><img>
+photo credit: Ria
 
 <h2>Astami : Anjali</h2>
 <img style="border:1px solid black;" src="/images/puja2022/2022-astami-pushpanjali.jpg"><img>
