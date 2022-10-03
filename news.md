@@ -10,6 +10,12 @@ permalink: /news/
 <div style="color:white;" id="demo"></div>
 
 <br/><br/>
+
+<h2>Astami : Anjali</h2>
+<img style="border:1px solid black;" src="/images/puja2022/2022-astami-pushpanjali.jpg"><img>
+photo credit: Rajashree
+
+<br/><br/>
 <h2>Saptami Morning : Kolabou Snan</h2>
 <img style="border:1px solid black;" src="/images/puja2022/2022-kolabou1.jpg"><img>
 <img style="border:1px solid black;" src="/images/puja2022/2022-kolabou2.jpg"><img>
