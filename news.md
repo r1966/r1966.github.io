@@ -24,7 +24,7 @@ photo credit: Ronnie
 
 <h2>Astami : Bhog</h2>
 <img style="border:1px solid black;" src="/images/puja2022/2022-pujo-upochar.jpg"><img>
-photo credit: Ria
+photo credit: Riya
 
 <h2>Astami : Anjali</h2>
 <img style="border:1px solid black;" src="/images/puja2022/2022-astami-pushpanjali.jpg"><img>
