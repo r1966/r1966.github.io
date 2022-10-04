@@ -11,7 +11,7 @@ permalink: /news/
 
 <br/><br/>
 <h2>Astami : Dhunuchi</h2>
-<video width="600" controls>
+<video width="750" controls>
   <source type="video/mp4" src="/images/puja2022/2022-dhunuchi-joy.mp4">
   This video rendering is not supported in your browser.
 </video>
