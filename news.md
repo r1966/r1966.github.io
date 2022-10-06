@@ -9,6 +9,13 @@ permalink: /news/
 
 <div style="color:white;" id="demo"></div>
 
+<img style="border:1px solid black;" src="/images/puja2022/2022-bhasan.jpg"><img>
+photo credit: Golla
+<br/><br/>
+<h2>Nabami : Lunch</h2>
+<img style="border:1px solid black;" src="/images/puja2022/2022-poribeshan.jpg"><img>
+<I>The gamcha brigade</I><br/>
+photo credit: Golla
 <br/><br/>
 <h2>Astami : Dhunuchi</h2>
 <video width="750" controls>
@@ -20,6 +27,9 @@ video credit: Sayantani
 <br/><br/>
 <h2>Astami : Sandhi Puja</h2>
 <img style="border:1px solid black;" src="/images/puja2022/2022-sandhi-pujo.jpg"><img>
+photo credit: Ronnie
+
+<img style="border:1px solid black;" src="/images/puja2022/2022-astami.jpg"><img>
 photo credit: Ronnie
 
 <h2>Astami : Bhog</h2>
