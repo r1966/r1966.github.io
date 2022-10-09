@@ -83,6 +83,7 @@ photo credit: Rajashree
 			  document.getElementById('demo').innerHTML += text1;
 		  }
 		  else {
+			  count = 8;
 			  var text2 = "<img src='../images/"+count+".jpg'/>";
 			  document.getElementById('demo').innerHTML += text2;
 		  }
