@@ -5,7 +5,11 @@ permalink: /news/
 
 {% include menu.html %}
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0" nonce="LlOs07kQ"></script>
+
+<h2>Ekadasi Evening</h2>
+<img style="border:1px solid black;" src="/images/puja2022/2022-ekadasi-samiran.jpg"><img>
+<I>New Samiran Co-operative Committee with our new members</I><br/>
+<br/><br/>
 
 <div style="color:white;" id="demo"></div>
 
