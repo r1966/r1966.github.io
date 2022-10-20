@@ -21,6 +21,18 @@ photo credit: Golla
 <I>The gamcha brigade</I><br/>
 photo credit: Golla
 <br/><br/>
+<h2>Astami : Ambarish Live</h2>
+<video width="750" controls>
+  <source type="video/mp4" src="/images/puja2022/2022-astami-bapi.mp4">
+  This video rendering is not supported in your browser.
+</video>
+<br/><br/>
+<h2>Astami : Tito Live</h2>
+<video width="750" controls>
+  <source type="video/mp4" src="/images/puja2022/2022-astami-tito.mp4">
+  This video rendering is not supported in your browser.
+</video>
+<br/><br/>
 <h2>Astami : Dhunuchi</h2>
 <video width="750" controls>
   <source type="video/mp4" src="/images/puja2022/2022-dhunuchi-joy.mp4">
