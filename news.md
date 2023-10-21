@@ -12,11 +12,12 @@ permalink: /news/
 <br/><br/>
 
 <img style="border:1px solid black;" src="/images/puja2023/ma1.png"><img>
+<br/>photo credit: Ronnie<br/>
 
 <br/>
 <br/>
 <img style="border:1px solid black;" src="/images/puja2023/agomoni1.png"><img>
-
+<br/>photo credit: Prof. Salil Sanyal<br/>
 
 <script>
 		function daysRemaining() {
