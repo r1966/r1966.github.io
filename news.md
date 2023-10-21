@@ -11,6 +11,10 @@ permalink: /news/
 
 <br/><br/>
 <h2>2023 Saptami Updates</h2>
+
+<img style="border:1px solid black;" src="/images/puja2023/2023-saptami3.jpg"><img>
+Saptami Udbodhani Sangeet<br/>
+
 <img style="border:1px solid black;" src="/images/puja2023/2023-saptami2.jpg"><img>
 photo credit: Prof. Salil Sanyal<br/>
 
