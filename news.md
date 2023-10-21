@@ -9,9 +9,13 @@ permalink: /news/
 
 <div style="color: orange; font-size:1.5em;font-weight: bold;" id="demo"></div>
 
-<img style="border:1px solid black;" src="/images/puja2023/2023-mm-pujo-banner.jpg"><img>
+<br/><br/>
 
+<img style="border:1px solid black;" src="/images/puja2023/ma1.png"><img>
 
+<br/>
+<br/>
+<img style="border:1px solid black;" src="/images/puja2023/agomoni1.png"><img>
 
 
 <script>
