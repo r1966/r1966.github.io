@@ -10,14 +10,23 @@ permalink: /news/
 <div style="color: orange; font-size:1.5em;font-weight: bold;" id="demo"></div>
 
 <br/><br/>
+<h2>2023 Saptami Updates</h2>
+<img style="border:1px solid black;" src="/images/puja2023/2023-saptami2.jpg"><img>
+photo credit: Prof. Salil Sanyal<br/>
 
+<img style="border:1px solid black;" src="/images/puja2023/2023-saptami1.jpg"><img>
+
+
+<br/><br/>
+
+<h2>2023 Sasthi Highlights</h2>
 <img style="border:1px solid black;" src="/images/puja2023/ma1.png"><img>
-<br/>photo credit: Ronnie<br/>
+photo credit: Ronnie<br/>
 
 <br/>
 <br/>
 <img style="border:1px solid black;" src="/images/puja2023/agomoni1.png"><img>
-<br/>photo credit: Prof. Salil Sanyal<br/>
+photo credit: Prof. Salil Sanyal<br/>
 
 <script>
 		function daysRemaining() {
