@@ -12,6 +12,14 @@ permalink: /news/
 <br/><br/>
 <h2>2023 Astami Updates</h2>
 
+<img style="border:1px solid black;" src="/images/puja2023/2023-astami5.jpg"><img>
+Astami Bhog Nibedaner por<br/>
+
+
+<img style="border:1px solid black;" src="/images/puja2023/2023-astami4.jpg"><img>
+<br/>
+
+
 <img style="border:1px solid black;" src="/images/puja2023/2023-astami3.jpg"><img>
 Astami Bhog Nibedan<br/>
 
