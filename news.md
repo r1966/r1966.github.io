@@ -12,6 +12,35 @@ permalink: /news/
 
 <br/><br/>
 <I>Photo Credit for all updates - Prof. Salil Sanyal</I>
+<h2>2023 Nabami shokal - Updates</h2>
+
+<img style="border:1px solid black;" src="/images/puja2023/n1.jpg"><img>
+<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/n2.jpg"><img>
+<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/n3.jpg"><img>
+<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/n4.jpg"><img>
+<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/n5.jpg"><img>
+<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/n6.jpg"><img>
+<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/n7.jpg"><img>
+<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/n8.jpg"><img>
+Shastange Pronam<br/>
+
+
+<br/><br/>
+<I>Photo Credit for all updates - Prof. Salil Sanyal</I>
 <h2>2023 Astami Sandhi Pujo - Updates</h2>
 
 <img style="border:1px solid black;" src="/images/puja2023/s1.jpg"><img>
