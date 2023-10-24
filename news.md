@@ -9,7 +9,7 @@ permalink: /news/
 
 <div style="color: orange; font-size:1.5em;font-weight: bold;" id="demo"></div>
 
-<I>Photo Credit for all updates - Prof. Salil Sanyal</I>
+<I>Photo Credit & captions for all updates - Prof. Salil Sanyal</I>
 
 
 <h2>2023 Dasami shokal - Updates</h2>
@@ -20,9 +20,33 @@ Dasami Puja<br/>
 <img style="border:1px solid black;" src="/images/puja2023/da2.jpg"><img>
 Maa Durga r Kochur Shak<br/>
 
+<img style="border:1px solid black;" src="/images/puja2023/da3.jpg"><img>
+Dashamir Bhog Utsargya<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/da4.jpg"><img>
+Dashamir Pushpanjalai<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/da5.jpg"><img>
+Dasamir Mayer Bhog<br/>
+ 
+<img style="border:1px solid black;" src="/images/puja2023/da6.jpg"><img>
+<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/da7.jpg"><img>
+Dasami r Arati<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/da8.jpg"><img>
+Naranyan mathai nie prodokhsin<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/da9.jpg"><img>
+Darpan Bisarjan<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/da10.jpg"><img>
+Mayer Pa dekhar janya<br/>
 
 <br/><br/>
-<I>Photo Credit & captions for all updates - Prof. Salil Sanyal</I>
+
+
 <h2>2023 Nabami shokal - Updates</h2>
 
 <img style="border:1px solid black;" src="/images/puja2023/n1.jpg"><img>
