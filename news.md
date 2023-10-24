@@ -9,9 +9,20 @@ permalink: /news/
 
 <div style="color: orange; font-size:1.5em;font-weight: bold;" id="demo"></div>
 
+<I>Photo Credit for all updates - Prof. Salil Sanyal</I>
+
+
+<h2>2023 Dasami shokal - Updates</h2>
+
+<img style="border:1px solid black;" src="/images/puja2023/da1.jpg"><img>
+Dasami Puja<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/da2.jpg"><img>
+Maa Durga r Kochur Shak<br/>
+
 
 <br/><br/>
-<I>Photo Credit for all updates - Prof. Salil Sanyal</I>
+<I>Photo Credit & captions for all updates - Prof. Salil Sanyal</I>
 <h2>2023 Nabami shokal - Updates</h2>
 
 <img style="border:1px solid black;" src="/images/puja2023/n1.jpg"><img>
@@ -40,7 +51,6 @@ Shastange Pronam<br/>
 
 
 <br/><br/>
-<I>Photo Credit for all updates - Prof. Salil Sanyal</I>
 <h2>2023 Astami Sandhi Pujo - Updates</h2>
 
 <img style="border:1px solid black;" src="/images/puja2023/s1.jpg"><img>
@@ -106,6 +116,10 @@ photo credit: Ronnie<br/>
 <br/>
 <br/>
 <img style="border:1px solid black;" src="/images/puja2023/agomoni1.png"><img>
+
+<img style="border:1px solid black;" src="/images/puja2023/sasthi0.jpg"><img>
+Beltala where Bodhan takes place
+
 
 <script>
 		function daysRemaining() {
