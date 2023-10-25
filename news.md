@@ -12,6 +12,27 @@ permalink: /news/
 <I>Photo Credit & captions for all updates - Prof. Salil Sanyal</I>
 
 
+<img style="border:1px solid black;" src="/images/puja2023/da14.jpg"><img>
+<br/>
+
+<img style="border:1px solid black;" src="/images/puja2023/da15a.jpg"><img>
+<br/>
+
+
+<h2>2023 Dasami Sindur khela</h2>
+
+<img style="border:1px solid black;" src="/images/puja2023/da13.jpg"><img>
+<br/>
+
+<h2>2023 Dasami - Baran</h2>
+
+<img style="border:1px solid black;" src="/images/puja2023/da12.jpg"><img>
+<br/>
+<img style="border:1px solid black;" src="/images/puja2023/da12a.jpg"><img>
+<br/>
+
+
+
 <h2>2023 Dasami shokal - Updates</h2>
 
 <img style="border:1px solid black;" src="/images/puja2023/da1.jpg"><img>
@@ -44,6 +65,9 @@ Darpan Bisarjan<br/>
 <img style="border:1px solid black;" src="/images/puja2023/da10.jpg"><img>
 Mayer Pa dekhar janya<br/>
 
+<img style="border:1px solid black;" src="/images/puja2023/da11.jpg"><img>
+Bisarjaner pore Aparajita Puja<br/>
+
 <br/><br/>
 
 
@@ -61,8 +85,6 @@ Mayer Pa dekhar janya<br/>
 <img style="border:1px solid black;" src="/images/puja2023/n4.jpg"><img>
 <br/>
 
-<img style="border:1px solid black;" src="/images/puja2023/n5.jpg"><img>
-<br/>
 
 <img style="border:1px solid black;" src="/images/puja2023/n6.jpg"><img>
 <br/>
