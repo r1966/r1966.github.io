@@ -10,7 +10,7 @@ permalink: /news/
 <div style="color: orange; font-size:1.5em;font-weight: bold;" id="demo"></div>
 
 <br/><br/>
-
+<img style="border:1px solid black;" src="/images/puja2024/ma-panchami.jpg"><img>
 <img style="border:1px solid black;" src="/images/puja2024/puja-nirghonto.png"><img>
 
 
