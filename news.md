@@ -16,7 +16,7 @@ permalink: /news/
 
 <script>
 		function daysRemaining() {
-		  var day  = 9
+		  var day  = 8
 		  var month = 10
 		  var year = 2024
 
@@ -25,7 +25,7 @@ permalink: /news/
 		  daystocount.setFullYear(daystocount.getFullYear())
 		  var oneday=1000*60*60*24
 		  var daysToGo = (Math.ceil((daystocount.getTime()-today.getTime())/(oneday)))
-		  var text1 = "45th Durgapuja 2023 : just ";
+		  var text1 = "46th Durgapuja 2024 : just ";
 
 		  if (daysToGo > 1) {
 			   text1 += daysToGo + " days to go ...";
