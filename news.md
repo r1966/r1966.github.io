@@ -10,18 +10,38 @@ permalink: /news/
 <div style="color: orange; font-size:1.5em;font-weight: bold;" id="demo"></div>
 
 <br/><br/>
-<img style="border:1px solid black;" src="/images/puja2024/ma-panchami.jpg"><img>
+<img style="border:1px solid black;" src="/images/puja2024/ma-panchami.jpg">
 
 পুজো এসে গেল। মা-এর বোধন ৮-ই অক্টোবর, সন্ধ্যা ৬টায়। মেঘমল্লারে সাজো-সাজো রব। পূজাপ্রাঙ্গন , কমিউনিটি হল সরগরম।
 <br/><br/>আগামীকাল আনন্দমেলা - অনেক বাড়িতে এখন তার জন্য প্রস্তুতি শুরু হয়ে গেছে।
 <br/><br/>
 আগামী কয়েকদিন আমাদের এই site আমরা চেষ্টা করব আপনাদের কাছে মেঘমল্লারের পুজোর ছবি ও সংবাদ পৌঁছে দেবার। সঙ্গে থাকবেন !
 
-<img style="border:1px solid black;" src="/images/puja2024/puja-nirghonto.png"><img>
-<img style="border:1px solid black;" src="/images/puja2024/2024-sasthi.jpg"><img>
-<img style="border:1px solid black;" src="/images/puja2024/2024-saptami.jpg"><img>
-<img style="border:1px solid black;" src="/images/puja2024/2024-astami-nabami.jpg"><img>
+<h2>Sunday October 6, 2024</h2>
+<h3>Anandamela</h3>
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-1.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-2.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-3.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-4.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-5.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-6.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-7.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-8.jpg"/><br/><br/>
 
+<h3>Radio Mirchi</h3>
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/mirchi2024-1.jpg">
+
+<br/>
+
+<h2>Updates</h2>
+
+<img style="border:1px solid black;" src="/images/puja2024/puja-nirghonto.png"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/2024-sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/2024-saptami.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/2024-astami-nabami.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/2024-astami-nabami.jpg"/><br/><br/>
+
+<img style="border:1px solid black;" src="/images/puja2024/2024-nabami.jpg"/><br/><br/>
 
 <script>
 		function daysRemaining() {
