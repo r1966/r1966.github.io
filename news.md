@@ -27,9 +27,13 @@ permalink: /news/
 <img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-6.jpg"/><br/><br/>
 <img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-7.jpg"/><br/><br/>
 <img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-8.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-8.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/anandamela2024-9.jpg"/><br/><br/>
 
 <h3>Radio Mirchi</h3>
 <img style="border:1px solid black;" src="/images/puja2024/anandamela/mirchi2024-1.jpg">
+<img style="border:1px solid black;" src="/images/puja2024/anandamela/mirchi2024-2.jpg">
+
 
 <br/>
 
