@@ -10,13 +10,35 @@ permalink: /news/
 <div style="color: orange; font-size:1.5em;font-weight: bold;" id="demo"></div>
 
 <br/><br/>
-<img style="border:1px solid black;" src="/images/puja2024/ma-panchami.jpg">
+(Photographers and reporting : Prof. Salil Sanyal &  team)
 
-পুজো এসে গেল। মা-এর বোধন ৮-ই অক্টোবর, সন্ধ্যা ৬টায়। মেঘমল্লারে সাজো-সাজো রব। পূজাপ্রাঙ্গন , কমিউনিটি হল সরগরম।
+
+<h2>Tuesday October 8, 2024</h2>
+
+
+আড়ম্বরহীন অথচ ভক্তিপূর্ণ পরিবেশে মায়ের বোধন অনুষ্ঠানের মধ্যে দিয়ে মেঘমল্লারের ৪৬তম দুর্গাপুজোর অনুষ্ঠানের শুভ সূচনা হল। ভক্তিভরে দেওয়া আলপনা, শুদ্ধাচারে সব প্রস্তুতি নিলেন মেঘমল্লারের উপচার টীম - যার মধ্যে রয়েছেন নবীন ও প্রবীণরা। বেলতলার পুজো, অকাল বোধন, পূজা - একে একে প্রত্যেকটি সুসম্পন্ন হল।  অস্ত্র শোভিত মায়ের মৃৎপ্রতিমার মধ্যে এখন দেবীর অসীম তেজ কেন্দ্রীভূত। 
+
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-0.jpg"/><br/><br/>
+
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-1.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-2.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-3.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-4.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-5.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-6.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-7.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-8.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-9.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-10.jpg"/><br/><br/>
+
+
+<h2>Monday October 7, 2024</h2>
+
+মা-এর বোধন ৮-ই অক্টোবর, সন্ধ্যা ৬টায়। মেঘমল্লারে সাজো-সাজো রব। পূজাপ্রাঙ্গন , কমিউনিটি হল সরগরম।
 আগামী কয়েকদিন আমাদের এই site আমরা চেষ্টা করব আপনাদের কাছে মেঘমল্লারের পুজোর ছবি ও সংবাদ পৌঁছে দেবার। সঙ্গে থাকবেন !
 
-(Photographers : Prof. Salil Sanyal &  team)
-<h2>Monday October 7, 2024</h2>
+
+
 <h3>কমিউনিটি হলে নাড়ু তৈরী 
 </h3>
 
