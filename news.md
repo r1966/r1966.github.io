@@ -18,8 +18,14 @@ permalink: /news/
 
 আড়ম্বরহীন অথচ ভক্তিপূর্ণ পরিবেশে মায়ের বোধন অনুষ্ঠানের মধ্যে দিয়ে মেঘমল্লারের ৪৬তম দুর্গাপুজোর অনুষ্ঠানের শুভ সূচনা হল। ভক্তিভরে দেওয়া আলপনা, শুদ্ধাচারে সব প্রস্তুতি নিলেন মেঘমল্লারের উপচার টীম - যার মধ্যে রয়েছেন নবীন ও প্রবীণরা। বেলতলার পুজো, অকাল বোধন, পূজা - একে একে প্রত্যেকটি সুসম্পন্ন হল।  অস্ত্র শোভিত মায়ের মৃৎপ্রতিমার মধ্যে এখন দেবীর অসীম তেজ কেন্দ্রীভূত। 
 
-<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-0.jpg"/><br/><br/>
 
+<video controls width="400">
+  <source src="/images/puja2024/bodhan/bodhan.mp4" type="video/mp4">
+</video> 
+Video Courtsey: Sanghamitra Banerjee
+
+<br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-0.jpg"/><br/><br/>
 <img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-1.jpg"/><br/><br/>
 <img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-2.jpg"/><br/><br/>
 <img style="border:1px solid black;" src="/images/puja2024/bodhan/bodhan-3.jpg"/><br/><br/>
