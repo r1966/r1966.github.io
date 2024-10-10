@@ -13,6 +13,31 @@ permalink: /news/
 (Photographers and reporting : Prof. Salil Sanyal &  team)
 
 
+<h2>Thursday October 10, 2024 (Saptami)</h2>
+<video controls width="400">
+  <source src="/images/puja2024/saptami/saptami1.mp4" type="video/mp4">
+</video> 
+
+কলা বৌ স্নান 
+(Video Courtsey: Asha Bhattacharya)
+
+
+<h2>Wednesday October 9, 2024 (Sasthi)</h2>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/1sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/2sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/3sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/4sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/5sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/6sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/7sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/8sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/9sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/10sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/11sasthi.jpg"/><br/><br/>
+<img style="border:1px solid black;" src="/images/puja2024/sasthi/12sasthi.jpg"/><br/><br/>
+
+
+
 <h2>Tuesday October 8, 2024</h2>
 
 
