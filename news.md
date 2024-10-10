@@ -14,6 +14,13 @@ permalink: /news/
 
 
 <h2>Thursday October 10, 2024 (Saptami)</h2>
+
+<img style="border:1px solid black;" src="/images/puja2024/saptami/2saptami.jpg"/><br/>
+সপ্তমী পুজোর অঞ্জলি 
+<br/>
+<img style="border:1px solid black;" src="/images/puja2024/saptami/1saptami.jpg"/><br/>
+সপ্তমী পুজোর নবপত্রিকা
+<br/>
 <video controls width="400">
   <source src="/images/puja2024/saptami/saptami1.mp4" type="video/mp4">
 </video> 
@@ -23,6 +30,24 @@ permalink: /news/
 
 
 <h2>Wednesday October 9, 2024 (Sasthi)</h2>
+
+<video controls>
+  <source src="/images/puja2024/sasthi/1sasthi.mp4" type="video/mp4">
+</video> 
+<br/><br/>
+<video controls>
+  <source src="/images/puja2024/sasthi/2sasthi.mp4" type="video/mp4">
+</video> 
+<br/><br/>
+<video controls>
+  <source src="/images/puja2024/sasthi/3sasthi.mp4" type="video/mp4">
+</video> 
+<br/><br/>
+<video controls>
+  <source src="/images/puja2024/sasthi/4sasthi.mp4" type="video/mp4">
+</video> 
+
+<br/><br/>
 <img style="border:1px solid black;" src="/images/puja2024/sasthi/1sasthi.jpg"/><br/><br/>
 <img style="border:1px solid black;" src="/images/puja2024/sasthi/2sasthi.jpg"/><br/><br/>
 <img style="border:1px solid black;" src="/images/puja2024/sasthi/3sasthi.jpg"/><br/><br/>
@@ -35,6 +60,11 @@ permalink: /news/
 <img style="border:1px solid black;" src="/images/puja2024/sasthi/10sasthi.jpg"/><br/><br/>
 <img style="border:1px solid black;" src="/images/puja2024/sasthi/11sasthi.jpg"/><br/><br/>
 <img style="border:1px solid black;" src="/images/puja2024/sasthi/12sasthi.jpg"/><br/><br/>
+
+
+<video controls width="600">
+  <source src="/images/puja2024/sasthi/14sasthi.mp4" type="video/mp4">
+</video> 
 
 
 
