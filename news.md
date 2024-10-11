@@ -18,7 +18,6 @@ permalink: /news/
 <h3>For Full Set of Astami pictures, <a href="/astami2024.html">click here</a> </h3>
 
 
-
 <h2>Thursday October 10, 2024 (Saptami)</h2>
 
 <h3>For Full Set of Saptami pictures, <a href="/saptami2024.html">click here</a> </h3>
