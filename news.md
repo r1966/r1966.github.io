@@ -13,21 +13,15 @@ permalink: /news/
 (Photographers and reporting : Prof. Salil Sanyal &  team)
 
 
+<h2>Friday October 11, 2024 (Astami)</h2>
+
+<h3>For Full Set of Astami pictures, <a href="/astami2024.html">click here</a> </h3>
+
+
+
 <h2>Thursday October 10, 2024 (Saptami)</h2>
 
-<img style="border:1px solid black;" src="/images/puja2024/saptami/2saptami.jpg"/><br/>
-সপ্তমী পুজোর অঞ্জলি 
-<br/>
-<img style="border:1px solid black;" src="/images/puja2024/saptami/1saptami.jpg"/><br/>
-সপ্তমী পুজোর নবপত্রিকা
-<br/>
-<video controls width="400">
-  <source src="/images/puja2024/saptami/saptami1.mp4" type="video/mp4">
-</video> 
-
-কলা বৌ স্নান 
-(Video Courtsey: Asha Bhattacharya)
-
+<h3>For Full Set of Saptami pictures, <a href="/saptami2024.html">click here</a> </h3>
 
 <h2>Wednesday October 9, 2024 (Sasthi)</h2>
 
