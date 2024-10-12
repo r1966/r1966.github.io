@@ -16,6 +16,7 @@ permalink: /news/
 <h2>Friday October 11, 2024 (Astami)</h2>
 
 <h3>For Full Set of Astami pictures, <a href="/astami2024.html">click here</a> </h3>
+<h3>For Dhunuchi pictures, <a href="/dhunuchi2024.html">click here</a> </h3>
 
 
 <h2>Thursday October 10, 2024 (Saptami)</h2>

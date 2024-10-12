@@ -13,6 +13,7 @@ layout: page
 
 <h3><a href="/news">Main Page</a> </h3>
 <h3><a href="/astami2024.html">Astami 2024</a> </h3>
+<h3><a href="/dhunuchi2024.html">Dhunuchi 2024</a> </h3>
 
 
 
