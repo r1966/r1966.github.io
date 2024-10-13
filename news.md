@@ -14,10 +14,7 @@ permalink: /news/
 
 <h2>Sunday October 13, 2024 (Dasami)</h2>
 
-<img style="border:1px solid black;" src="/images/puja2024/dasami/2dasami.jpg"/><br/>
-Bhog nibedan
-<img style="border:1px solid black;" src="/images/puja2024/dasami/1dasami.jpg"/><br/>
-Mayer Kochushak
+<h3>For Dasami pictures, <a href="/dasami2024.html">click here</a> </h3>
 
 
 
