@@ -14,7 +14,7 @@ layout: page
 <h3><a href="/news">Main Page</a> </h3>
 <h3><a href="/saptami2024.html">Saptami 2024</a> </h3>
 <h3><a href="/dhunuchi2024.html">Dhunuchi 2024</a> </h3>
-
+<h3><a href="/nabami2024.html">Nabami 2024</a> </h3>
 
 
 <h2>Friday October 11, 2024 (Astami)</h2>

@@ -12,6 +12,19 @@ permalink: /news/
 <br/><br/>
 (Photographers and reporting : Prof. Salil Sanyal &  team)
 
+<h2>Sunday October 13, 2024 (Dasami)</h2>
+
+<img style="border:1px solid black;" src="/images/puja2024/dasami/2dasami.jpg"/><br/>
+Bhog nibedan
+<img style="border:1px solid black;" src="/images/puja2024/dasami/1dasami.jpg"/><br/>
+Mayer Kochushak
+
+
+
+<h2>Saturday October 12, 2024 (Nabami)</h2>
+<h3>For Full Set of Nabami pictures, <a href="/nabami2024.html">click here</a> </h3>
+
+
 
 <h2>Friday October 11, 2024 (Astami)</h2>
 
