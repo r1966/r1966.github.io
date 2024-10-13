@@ -14,6 +14,12 @@ permalink: /news/
 
 <h2>Sunday October 13, 2024 (Dasami)</h2>
 
+<video controls >
+  <source src="/images/puja2024/bhasan/bhasanAtGhat.mp4" type="video/mp4">
+</video>
+(Ghater Bhashan: Courtsey Siddhartha K. Sanyal)
+
+
 <h3>For Bhasan pictures, <a href="/bhasan2024.html">click here</a> </h3>
 <h3>For Dasami pictures, <a href="/dasami2024.html">click here</a> </h3>
 
