@@ -14,13 +14,13 @@ permalink: /news/
 
 <h2>Sunday October 13, 2024 (Dasami)</h2>
 
+<h3>For Bhasan pictures, <a href="/bhasan2024.html">click here</a> </h3>
 <h3>For Dasami pictures, <a href="/dasami2024.html">click here</a> </h3>
 
 
 
 <h2>Saturday October 12, 2024 (Nabami)</h2>
 <h3>For Full Set of Nabami pictures, <a href="/nabami2024.html">click here</a> </h3>
-
 
 
 <h2>Friday October 11, 2024 (Astami)</h2>
