@@ -17,7 +17,6 @@ layout: page
 <h3><a href="/dhunuchi2024.html">Dhunuchi 2024</a> </h3>
 <h3><a href="/nabami2024.html">Nabami 2024</a> </h3>
 <h3><a href="/dasami2024.html">Dasami 2024</a> </h3>
-<h3><a href="/bhasan2024.html">Bhasan 2024</a> </h3>
 
 <h2>Sunday October 13, 2024 (Dasami Bhasan)</h2>
 
@@ -65,5 +64,6 @@ Ar Pandal hopping noi
 Relaxed mood e
 <img style="border:1px solid black;" src="/images/puja2024/bhasan/22bhasan.jpg"/><br/>
 Ghate dhokar khushi te
+
 
 To go back to main page, <a href="/news">click here</a>
